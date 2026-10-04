@@ -21,28 +21,11 @@ Se utilizaron los siguientes datasets:
 - Se segmento a los clientes por edad y por uso.
 - Se grafico en base a grupos de edad y grupos de uso.
 
-## Pasos para ejecutar el notebook
+## Ejecutar el notebook
 
-```python
-import foobar
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Raizarx97/telecom-analysis/blob/main/S7-Analisis-ConnectaTel.ipynb)
 
-# returns 'words'
-foobar.pluralize('word')
+## Guía de Reproduccion.
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+- Abre el notebook en Colab.
+- Da clic en "Run All".
